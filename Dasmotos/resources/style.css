@@ -14,18 +14,19 @@ h1 {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
-.brushes{
+#brushes-container {
   background-color: mediumspringgreen;
 }
 
-.frames {
+#frames-container {
   background-color: lightcoral;
 }
 
-.paint {
+#paint-container {
   background-color: skyblue;
 }
 
-strong {
+span {
   color: blue;
+  font-weight: bold;
 }
